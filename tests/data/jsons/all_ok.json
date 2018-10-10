@@ -10,7 +10,7 @@
         "fstype": "rootfs",
         "instance": "cs30.evilcorp",
         "job": "fsociety",
-        "mountpoint": "/",
+        "mounterpoint": "/",
         "severity": "severe"
       },
       "annotations": {

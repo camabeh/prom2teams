@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a ch
 
 ## [Unreleased](https://github.com/idealista/prom2teams/tree/develop)
 
+## Changed
+- *[#99](https://github.com/idealista/prom2teams/pull/99 ) Marshmallow update @manuhortet*
+
 ## Added
 - *[#94](https://github.com/idealista/prom2teams/pull/94) Always group by status @manuhortet*
 

@@ -9,7 +9,7 @@
         "device": "rootfs",
         "fstype": "rootfs",
         "job": "fsociety",
-        "mountpoint": "/",
+        "mounterpoint": "/",
         "severity": "severe"
       },
       "annotations": {
